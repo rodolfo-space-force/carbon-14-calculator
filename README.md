@@ -2,7 +2,7 @@
 
 Este script em Python permite estimar a idade de uma amostra orgânica com base na porcentagem de Carbono-14 remanescente, utilizando o modelo de decaimento exponencial radioativo.
 
- **Baseado em:** *S. J. Chapman — MATLAB for Engineers, pág. 66*
+ **Baseado em:** *S. J. Chapman - MATLAB for Engineers, pág. 66*
 
 ---
 
