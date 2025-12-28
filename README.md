@@ -9,6 +9,7 @@ Este script em Python permite estimar a idade de uma amostra orgânica com base 
 ##  Descrição
 
 A datação por Carbono-14 é amplamente utilizada para estimar a idade de artefatos arqueológicos, fósseis e múmias, como o famoso **Homem de Gelo (Ötzi)**. 
+
 Este script aplica a fórmula clássica do decaimento exponencial para converter a porcentagem de C-14 restante em anos.
 
 
