@@ -1,10 +1,12 @@
+
 #  Carbon-14 Dating Calculator (C14)
 
 Este script em Python permite estimar a idade de uma amostra orgânica com base na porcentagem de Carbono-14 remanescente, utilizando o modelo de decaimento exponencial radioativo.
 
  **Baseado em:** *S. J. Chapman - MATLAB for Engineers, pág. 66*
+ 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
 
----
 
 ##  Descrição
 
